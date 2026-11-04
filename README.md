@@ -1,2 +1,2 @@
 # ohtuvarasto
-![GitHub Actions Status](https://github.com/ahonenvi/ohtuvarasto/blob/main/.github/workflows/main.yml/badge.svg)
+[![CI](https://github.com/ahonenvi/ohtuvarasto/actions/workflows/main.yml/badge.svg)](https://github.com/ahonenvi/ohtuvarasto/actions/workflows/main.yml)
