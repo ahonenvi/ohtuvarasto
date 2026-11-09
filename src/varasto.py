@@ -43,3 +43,12 @@ class Varasto:
 
     def __str__(self):
         return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()}"
+
+    def sisakkaiset_lohkot(x):
+    if x > 0:
+        for i in range(x):
+            if i > 1:
+                print(i)
+
+    def liian_monta_argumenttia(a, b, c, d):
+    return a + b + c - d
