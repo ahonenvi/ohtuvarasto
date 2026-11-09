@@ -26,4 +26,3 @@ jobs:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
       - name: Run pylint
         run: uv run pylint src
-
